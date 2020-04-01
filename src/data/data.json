@@ -1,0 +1,25 @@
+{
+  "places": [{
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-4.4393407, 36.6998241]
+      },
+      "properties":{
+        "title":"Tabacalera Málaga",
+        "description":"Edifico de la tabacalera de Málaga"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-5.6635349, 43.5465019]
+      },
+      "properties":{
+        "title":"Tabacalera Gijón",
+        "description":"Edifico de la tabacalera de Gijón"
+      }
+    }
+  ]
+}
