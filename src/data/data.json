@@ -3,22 +3,132 @@
       "type":"Feature",
       "geometry":{
         "type":"Point",
-        "coordinates":[-4.4393407, 36.6998241]
+        "coordinates":[-5.991084, 37.381473]
       },
       "properties":{
-        "title":"Tabacalera Málaga",
-        "description":"Edifico de la tabacalera de Málaga"
+        "title":"REAL FÁBRICA DE TABACOS DE SEVILLA [1758-1950]",
+        "description":"Presenta planta cuadrada con salientes angulares y está rodeado en tres de sus frentes - Sur, Este y Oeste - por un foso. El recinto también acoge dos construcciones exentas más pequeñas situadas a ambos extremos de la fachada principal, que fueron dedicadas a capilla y cárcel. En el resto de los espacios libres se dispone un área ajardinada.\n Las edificaciones exentas son pequeñas, presentan planta en \"L\" y se prolongaban con cocheras hasta tocar la muralla, que corría por delante del complejo, acotando la que sería llamada vulgarmente \"plaza de las fábricas\".\n En la fábrica se distinguen dos núcleos bien diferenciados: el residencial, desarrollado en torno a la fachada principal, y el industrial, que ocupa el resto del conjunto. Este último sector presenta amplias galerías cubiertas con bóvedas vaídas que descansan en robustos pilares y que se iluminan mediante lucernarios en planta alta.\n En su interior destacan los patios, algunos de los cuales se cubren con montera acristalada y los cuerpos de las escaleras principales que recogen la representatividad del edificio, así como la materialización del principal eje de composición mediante una sucesión de patios.\n El edificio principal se alza en un total de dos alturas y las cubiertas del conjunto son azoteas que se ocultan al exterior por medio de antepechos y sobre ellas aparece un interesante grupo de lucernarios de hermosa traza barroca.\n El edificio está realizado en cantería y su alzado recuerda más al de un palacio que al de un cuartel, salvando así la rigidez de composición volumétrica propia de algunas obras de los ingenieros militares. En la construcción se utilizó piedra de Gerena y Morón, siendo esta última una caliza de color albero con la que se ejecutaron el zócalo, la portada principal y la cornisa.\n El cuerpo general de fachada se modula mediante grandes pilastras elevadas sobre un pedestal corrido, su ritmo es de 7-4-3-4-7 y en las alas que se unen con las viviendas de esquina las pilastras duplicadas aparecen repetidas.\n Los alzados se coronan por antepechos que ocultan al exterior las azoteas. La decoración se hace a base de jarrones de azucenas, que culminan los cuerpos de columnas pareadas, y pináculos, en las esquinas, ejecutados por Acosta, y que también se pueden ver en la Lonja, la Catedral, y la iglesia del Salvador."
       }
     },
     {
       "type":"Feature",
       "geometry":{
         "type":"Point",
-        "coordinates":[-5.6635349, 43.5465019]
+        "coordinates":[-6.290732, 36.529380]
       },
       "properties":{
-        "title":"Tabacalera Gijón",
-        "description":"Edifico de la tabacalera de Gijón"
+        "title":" FÁBRICA NACIONAL DE TABACOS DE CÁDIZ [1741-1988]",
+        "description":"Antigua Fábrica se creó en SXVIII en 1741 en una casa situada frente a la puerta denominada de Sevilla, donde después se levantó el edificio de la Aduana. Más tarde estuvo en la calle del Rosario, trasladándose en 1829 a la Alhóndiga. En 1870 fue suprimida y restablecida en el año siguiente, funcionando hasta 1872. Acordado por el Ayuntamiento la renovación y ampliación del edificio, se realizaron estas obras entre 1883 y 1885 con arreglo al proyecto del ingeniero Federico Gil de los Reyes con la colaboración del ingeniero de la Dirección General de Rentas Estancadas Mauro Serret. El 1 de Octubre de 1887 se inauguró la moderna fábrica de Tabacos de Cádiz, que está situada en la calle llamada de Plocia y se alza en tres plantas.\n La planta es irregular, siendo destacable el cuerpo del edificio principal que formando una U abraza al patio cubierto con montera. La entrada principal da a la calle Plocia, tras el zaguán de ingreso al que abren varias dependencias. Existe un vestíbulo en el que se encuentran las escaleras de acceso a los pisos superiores. Tras este vestíbulo se encuentra el patio principal. Este va cubierto por una montera de cristales e hierro. En el lateral izquierdo se colocan los almacenes de productos elaborados. La parte trasera poseía en tiempos un corredor que rodeaba esta zona de la fábrica, en la actualidad se usan como talleres. Las dependencias dan al patio principal. Las ventanas y puertas del primer piso son adinteladas, las del segundo son de medio punto. Los soportes del patio son columnas de fuste liso.\n La puerta de ingreso principal es de medio punto. La tapia exterior tiene decoración de sebka y remates en almenas entre los que recorren rejas. La decoración es a base de ladrillo vista, con aparejo inglés."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-0.483330, 38.352532]
+      },
+      "properties":{
+        "title":"FÁBRICA DE TABACOS DE ALICANTE [1801-2001]",
+        "description":"Se trata de un complejo formado por diversas construcciones de distintas tipologías. La construcción más antigua es la recayente a la calle Sevilla, distribuida en torno a tres patios. La fachada principal se encuentra retranqueada de la alineación de la calle, separada de ésta por un antejardín. En su crujía principal cuenta con tres plantas, mientras que los cuerpos al norte cuentan con dos y los cuerpos al sur, una planta. Adosada al edificio preexistente, se encuentra otra estructura posterior en torno a un patio que se corresponde con la intervención de E. Jover a mediados del siglo XIX. En la parte norte de la parcela se sitúan otras naves con una sugerente estructura de mediados del siglo XX.\n En 1824 fue remodelado mediante el añadido de crujías para ampliarlo. En 1844 se declaró un incendio, que provocó una nueva remodelación. En varias ocasiones, en el primer tercio del siglo XX, se realizaron nuevas obras de ampliación y en 1966 se remodeló la cerca del antejardín para adecuarlo a la trama viaria. A pesar de las remodelaciones sufridas para adaptar el edificio a las nuevas necesidades y a la nueva trama urbana, la morfología del edificio mantiene lo esencial de la estructura cuadrada del inicial palacio episcopal y la contigua Casa de la Misericordia, con los patios porticados que evocan el uso primigenio.\n El conjunto en general presenta una estructura en obra de fábrica exceptuando los añadidos posteriores, en los que abunda el uso de elementos estructurales en fundición de hierro u hormigón armado."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-8.402093, 43.358407]
+      },
+      "properties":{
+        "title":"FÁBRICA DE TABACOS DE LA CORUÑA [1804-2002]",
+        "description":"El edificio principal que ha llegado a nuestros días es la denominada Fábrica Nueva o Fábrica de Abajo construida en 1884 como complemento a la fábrica inicial y que posteriormente, tras sucesivas ampliaciones y reformas se convertiría en el edificio principal y representativo de cara a la ciudad. Se trata de un edificio singular exento de estilo neoclásico con fachada enfoscada y revoco pintado y decoración sencilla compuesta por molduras pétreas de estilo clásico en pilastras y cornisas y remarcando puertas principales y huecos de fachada. Se cierra en su parte baja por una verja de hierro y corona el edificio una torrecilla con un reloj de campana. Tras las sucesivas ampliaciones resulta un cuerpo cuadrangular de tres plantas y sótano organizado interiormente a través de cuatro patios que aportan luz y ventilación a las dependencias interiores, y que en reformas posteriores - presumiblemente años 70- se cubrieron en parte con cubiertas metálicas para aumentar la superficie de producción aprovechable.\n Una de las reformas principales es la acaecida entre 1910-25 -a cargo de Antonio Mesa-. Consiste en un trabajo de recopilación de todo el proceso, eliminando las estructuras centrales de doble crujía construidas en muros y pilares de cantería y sustituirlas por pilares de fundición, a la vez que los forjados de madera lo hacían de estructuras metálicas de vigas y correas con bóvedas de ladrillo. Elimina el primitivo \"Almacén\" secundario y edificaciones auxiliares y reconstruyendo la esquina suroeste, rediseña la fachada a la Palloza convirtiéndola en la principal del edifico."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-3.703164, 40.406165]
+      },
+      "properties":{
+        "title":" FÁBRICA DE TABACOS DE MADRID [1809-2000]",
+        "description":"Se construyó para albergar el monopolio estatal de los aguardientes, los naipes y papel sellado, siendo reconvertida en fábrica de tabacos en 1809. Tiene planta rectangular con grandes proporciones, distribuida en torno a tres patios para darle mayor ventilación e iluminación. Sus fachadas, de gran sencillez de líneas, presentan un zócalo de granito, cornisas separando las cuatro plantas y frontones en las esquinas. Esta sencillez sólo está rota en la fachada principal, a la calle Embajadores, donde aparecen tres puertas en una disposición simétrica, enmarcadas con pilastras de orden dórico, resaltando la principal con un balcón corrido y una ventana enmarcada con cartela sobre el entablamento. La severidad de la composición remite a la obra de Sabatini en su composición lingüística, en la ordenada sucesión de ventanas y balcones que aportan un equilibrado ritmo 5-8- 8-5.\n En la gran reforma de 1908 se produjo la adición de una planta llegando a un total de tres plantas sobre rasante y sótano, introduciendo en el nuevo nivel estructuras de cubrición mediante cerchas metálicas. La estructura del conjunto es mayoritariamente de obra de fábrica con muros de carga de ladrillo, siendo el sótano abovedado y las restantes plantas cubiertas mediante forjados de viguetas de madera."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-3.813372, 43.460142]
+      },
+      "properties":{
+        "title":" FÁBRICA DE TABACOS DE SANTANDER [1822-2002]",
+        "description":"La actual Fábrica de Tabacos de Santander está instalada en el antiguo convento de Santa Cruz del Monte Calvario, fundado por Maria de Oquendo y Lasarte el 6 de noviembre de 1656 y proyectado por Fray Lorenzo de Jorganes.\n La iglesia tiene nave única y ábside poligonal. Tiene dos puertas, siendo la principal la situada en la fachada meridional, con columnas y remate en frontón semicircular partido.\n Acogió a una comunidad de monjas clarisas hasta 1835, fecha en la que se decidió la conversión del convento en fábrica de tabacos.\n Al instalarse la Fábrica en el antiguo convento de Santa Cruz, fue modificada su distribución interior y las construcciones de planta baja se elevaron a igual altura que el resto del edificio, que consta de seis cuerpos, distinguiéndose la parte antigua por la solidez y anchura de sus muros. El perímetro forma un polígono irregular de doce lado y se eleva en un total de dos alturas.\n La comunicación general entre los dos pisos se efectúa por una espaciosa escalera, en la que se advierte una hermosa lápida de mármol.\n A la derecha del edificio, algunos metros distante y unido a él por una tapia de regular altura, hay un espacioso local, dividido en dos por un muro longitudinal, dedicado a almacenes de elaborados y de tabacos en rama.\n Las reformas introducidas poco a poco han sido costosas, y algunas de ellas de difícil ejecución algunas de ellas. Las más importantes fueron ideadas y dirigidas por el ingeniero Alejo Sesé, tales como las armaduras a pendolón de la fachada Sur, armaduras en el pabellón, cielos rasos y cubiertas de teja plana, y, por último la reforma más trascendental con la apertura de siete luceras en el pabellón de talleres.\n"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-5.663383, 43.546752]
+      },
+      "properties":{
+        "title":"FÁBRICA DE TABACOS DE GIJÓN [1823-2002]",
+        "description":"La estructura principal constaba de muro de fábrica de mampostería de calidad modesta, a cal y arena, revestida con revoco adornado con un fingido que simula una sillería. En las cubiertas se disponía una estructura de armadura de madera con acabado en teja. El conjunto se dividía en cuatro partes diferenciadas que atendían a las exigencias del espacio autosuficiente que suponía el recinto conventual: la vicaría, la iglesia, la casa conventual y las huertas al aire libre. La vicaría tenía originalmente una sola altura y estaba adosada al muro Oeste de la iglesia. Además de servir de portería del recinto a través de la entrada a la calle por una pequeña escalera exterior, albergaba una alacena que servía para introducir agua en el convento, un locutorio con celosía y un cuarto-almacén. Tras la desamortización del convento y el inicio de las obras de reforma para su reconversión en fábrica de tabacos, este espacio sirvió como vivienda provisional de las religiosas hasta que finalmente fueron alojadas en una vivienda particular de la ciudad y posteriormente fue el acceso principal a la fábrica albergando las oficinas y vivienda del director e incrementando su altura a un total de tres plantas.\n En el interior de la iglesia, el muro presenta como única decoración una moldura horizontal que recorre todo el paramento, con una cubierta de bóveda de cañón sobre dos arcos fajones con lunetos en la nave, donde se abren tres huecos en el muro, mientras que en los lados del crucero los lunetos están dotados de ventanas al exterior. En el centro del crucero cuatro robustos arcos torales sustentan una cúpula esférica rebajada sobre pechinas. Este espacio se destinó a almacén de rama y el presbiterio se vio seriamente modificado.\n Por su parte, la casa conventual se alzaba sobre dos plantas y en su interior se disponía un patio central. Situada al Este de la iglesia, se trataba de un edificio de tipo claustral distribuido en cuatro pandas que circundaban el patio principal en el que había un pozo. Posteriormente, se incrementó su altura a un total de tres plantas, pasando a albergar el núcleo principal de talleres."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-0.361593, 39.473648]
+      },
+      "properties":{
+        "title":"FÁBRICA DE TABACOS DE VALENCIA [1828-2001]",
+        "description":"Se trata de un edificio de tres alturas, además de un ático menor sobre la entrada principal. El edificio se organizaba en alas en torno a dos grandes patios laterales y poseía en el centro un cuerpo más compacto que alojaba dos patios menores, la escalera principal. El edificio poseía otras seis escaleras y galerías de paso en tono a los patios que garantizaban la fluidez de las comunicaciones.\n La fábrica se realizó en ladrillo cocido, listado por bandas de azulejos en tonos blanco y azul. Se ha señalado en su concepción la influencia del neomudéjar racionalizado madrileño.\n Esta construcción austera en ladrillo, que nunca estuvo pensada a priori para albergar una exposición, responde a las características habituales en las construcciones industriales de la época, es decir: muros sólidos sin concesiones a la decoración, o al menos a cualquier decoración que no derive del propio aparejo de la fábrica; forjados de viguetas metálicas y revoltón, pavimentos de madera u ocasionalmente de embaldosado; cubrición con cerchas metálicas, forjados inclinados con viguetas metálicas y revoltón, formando pendientes a dos aguas y retejado cerámico; composición racional de alas de edificación en torno a patios que sirven a su vez de distribuidores; carpintería, vidriería, alicatados y rejería interior, que sin renunciar a la sencillez, revelan su pertenencia a la época, a través de una decoración floral de inclinación modernista. Los aparejos de los muros son muy sencillos, con pocas concesiones a la variación con fines decorativos, más allá de los encintados rehundidos de los vanos de toda fábrica, con una solución de arco adintelado de clave destacada que se repite en todos ellos.\n Con posterioridad a la Exposición, el edificio sufrió transformaciones derivadas de las necesidades más prosaicas de la fábrica, de manera que, por ejemplo, los pisos superiores se ha ido abandonando al tiempo que se ocupaban y colmataban los patios, sin miramientos de ninguna clase respecto a la arquitectura original, puesto que se anteponía el pragmatismo a la dignidad histórica del edificio."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-1.975316, 43.316527]
+      },
+      "properties":{
+        "title":"FÁBRICA DE TABACOS DE SAN SEBASTIÁN [1878-2003]",
+        "description":"La nueva fábrica se configuró en torno a cuatro patios en una planta de cruz griega a través de los cuales se inundaban de luz los habitáculos interiores. De esta forma, se disponían cuatro crujías perimetrales y una central coincidente con el eje de acceso de iguales dimensiones, mientras que la perpendicular a ésta última que terminaba de conformar los cuatro patios contaba con una anchura más reducida. Aunque la fachada se formalizaba en clave clasicista al gusto de las unidades fabriles de la Renta de Tabacos, se aprecia una variación en la importancia dada a la disposición de grandes aperturas que permitiesen la adecuada iluminación y ventilación del interior.\n El área total del inmueble fabril, de unos 8.000 metros cuadrados -de los 13.000 que ocupaba el solar vallado, correspondiendo a una planta de 113 por 76 metros- se distribuía entre el sótano, la planta baja y dos pisos, rematando cada galería en una gran cubierta a cuatro aguas formada por cerchas de hierro que se perforaba por amplios lucernarios en el área coincidente con la escalera principal, reforzando el carácter de representatividad de este espacio.\n Sobre los aspectos constructivos, cabe destacar que debido a los problemas ocasionados durante los trabajos de cimentación, fueron necesarias algunas modificaciones del proyecto original. La obra se ejecutó en hormigón hidráulico en los terrenos fangosos localizados en la zona de la fachada posterior colindante con la línea ferroviaria, y en mampostería hidráulica en los que no comportaban serios problemas. Mientras que los muros del sótano también se conformaron mediante mampostería hidráulica, en los zócalos y basamento se empleó piedra de sillería procedente de Motrico y reforzada mediante armadura apoyada sobre columnas. Los solados tanto de la planta baja como del sótano eran de piedra y entarimado, ejecutándose los del primer y segundo piso en cemento Portland en aquellos puntos donde fuese posible el vertido de agua. Por otra parte, las cerchas de la cubierta se realizaron mediante un sistema de dos tornapuntas y pendolón central, en hierro, y la estructura principal se ejecutó con muros de carga en obra de fábrica.\n"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-2.448699, 42.46607]
+      },
+      "properties":{
+        "title":" FÁBRICA DE TABACOS DE LOGROÑO [1890-1978]",
+        "description":"Construido en su mayor parte en el S.XVI sobre el solar de un inmueble previo del S.XIII, se realizaron en 1686 las últimas obras en la iglesia con el remate de su portada escultórica. El conjunto conventual constaba de dos zonas claramente diferenciadas: la iglesia y su claustro meridional junto a un bloque de dependencias al Oeste de la parcela, y la casa conventual propiamente dicha que lindaba al Este con la cabecera de la iglesia y el claustro y que contaba con un sistema de grandes estancias alargadas organizadas alrededor de un patio, alzándose sobre una altura de tres plantas. La nave de la iglesia mostraba influencias del románico normando, mientras que en el patio del claustro dominaba el estilo renacentista. El acceso al templo estaba situado en la fachada Norte, colindante con la calle Mayor, y se enmarcaba por una gran portada escultórica. Construida en piedra sillar, la iglesia estaba formada por una nave de cinco tramos con capillas altas entre los contrafuertes y cabecera ochavada de tres paños con pilares redondos adosados que soportaban las desaparecidas crucerías del S.XVI. Frente a la portada, en el interior, se abría un ingreso de medio punto que conectaba el espacio eclesial al claustro cuadrangular de dos plantas del S.XVI. A lo largo de los siglos XVII y XVIII, se produjeron algunas intervenciones de relevancia como la apertura de puertas en el claustro y la iglesia para su conexión con el resto de dependencias monásticas, o la reconstrucción de la fachada Sur en 1716, dotándola de mayor robustez mediante un refuerzo de los paramentos a base de contrafuertes.\n La intervención sobre la envolvente exterior sería significativa, unificando todas las fachadas con objeto de conseguir un edificio de homogénea y clara lectura que diese continuidad en el exterior a todas las partes de las que estaba compuesto. Tratando la manzana como un continuo en su relación con el contexto urbano inmediato, la fachada Sur del claustro se integraba compositivamente con el de la zona conventual. De forma análoga, se conectaba el inmueble- almacén que se construyó años más tarde sobre el solar la vieja Casa de Misericordia al Oeste del antiguo conjunto conventual, a través de una falsa fachada, creando un espacio residual libre al privatizar el callejón existente entre la iglesia y su claustro y dicho edificio. Sintomática de la nueva sensibilidad hacia la preexistencia es la temprana protección de la portada barroca de la iglesia por la Comisión de Monumentos Artísticos, respetando en la reforma la integridad de este conjunto escultórico."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[1.238534, 41.114140]
+      },
+      "properties":{
+        "title":" FÁBRICA DE TABACOS DE TARRAGONA [1932-2007]",
+        "description":"La Fábrica de Tabacos de Tarragona fue concebida para lograr la máxima racionalización posible en los procesos de almacenaje, preparación y elaboración del tabaco. El edificio se hallaba situado a las afueras de la ciudad, en zona de huertas, cerca del río Francolí y del puerto.\n Se trata de un edificio de corte neoclásico, integrado por un conjunto de módulos en torno a un patio ajardinado central. En los pabellones laterales se ubicaban los talleres de cigarrillos, al fondo los almacenes, y en los módulos de la entrada, los servicios y la dirección.\n Si el exterior de la Fábrica evocaba un pequeño palacio, con ornamentos y jardines semejantes a los de una residencia pudiente, su interior presentaba los rasgos de funcionalidad propios de una instalación de nueva planta concebida desde su origen para las labores específicas de esta industria.\n La distribución de la planta original, que fue retocada en diversas ocasiones con ampliaciones, reconstrucciones y algunos cambios, se circunscribía alrededor de un patio ajardinado central en forma de U sobre el que se distribuían catorce pabellones de diferente forma y superficie, destacando las dos grandes naves laterales que, en paralelo, avanzaban hacia el interior.\n La nave situada al SSW había de albergar el taller de cigarrillos y de picados, mientras que la del NNE era para el taller de cigarros, alzándose en una altura de dos plantas. Ambas naves quedaban unidas por el edificio destinado a almacén de distribución que contaba con una altura de tres plantas y daba paso en su parte posterior a cinco almacenes rectangulares destinados a rama.\n En cuanto a la solución constructiva, la estructura estaba realizada en hormigón armado mientras que los cerramientos se realizaron en obra de fábrica con piedra y arena de procedencia local, mientras que las cubiertas se ejecutaron en piedra y pizarra natural."
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-4.439574, 36.699660]
+      },
+      "properties":{
+        "title":" FÁBRICA DE TABACOS DE MÁLAGA [1977-2002]",
+        "description":"Se trata de un conjunto de edificios de once pabellones construido entre 1923 y 1927 con arreglo al mismo proyecto que la tabacalera de Tarragona.\n El conjunto está compuesto por once pabellones independientes ordenados en torno a un espacio central. Seis de estos pabellones conforman una ordenación simétrica en torno a un espacio interior, localizándose los otros cinco, dedicados a almacenaje en el borde Sur de la parcela.\n En la composición simétrica principal se sitúan dos edificios dedicados a Oficinas y Registro para marcar el acceso principal. Ambos edificios se rematan con una torre que marca la entrada al complejo, realizándose los accesos a los edificios por una escalinata cubierta por logia rematada en terraza. El estilo regionalista de raíz sevillana será el elegido para la formalización de este conjunto y es en estos edificios de carácter más representativo donde el uso de la cerámica vidriada y el ladrillo en la definición de huecos, balaustradas y en general en la composición de sendos edificios va a ser más profusa. A partir de este punto los pabellones delimitan un jardín central con una fuente en el centro dentro del regionalismo sevillano que ha sido extraída directamente del imaginario sevillano de los jardines contemporáneos de los Reales Alcázares. A ambos lados de este espacio central se sitúan los dos pabellones simétricos que acogen los Talleres de Elaboración. El situado más al Norte se convirtió Centro de Fermentación y el Sur a fábrica de tabacos tras la transformación de 1977. El edificio que se sitúa al fondo cerrando la composición era el antiguo Almacén de Distribución y servicios para la plantilla. Detrás de este se ubicó el edificio de Calderas y Servicios Generales. En estos edificios, la arquitectura es más funcional; sus fachadas se resuelven de forma seriada, como una gran superficie acristalada que queda modulada a partir de pilastras de ladrillo.\n En la zona más al Sur se localizan los pabellones para almacenes mostrando una arquitectura racional, sus carpinterías metálicas y su estructura de hormigón los únicos elementos utilizados para la conformación de sus espacios y para la composición de sus fachadas."
       }
     }
   ]
