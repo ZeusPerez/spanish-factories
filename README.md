@@ -2,7 +2,7 @@
 
 ## Tobacco Factories in Spain
 
-Project for represting the tobacco factories in Spain and information about it.
+Project for representing the tobacco factories that existed in Spain across recent history and information about it. This project has academic purposes and represent the information of the book "Fábricas de tabacos en España" by Carolina Castañeda.
 
 
 ### Run
