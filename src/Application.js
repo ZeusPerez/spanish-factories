@@ -3,7 +3,7 @@ import mapboxgl from 'mapbox-gl';
 import data from './data/data';
 import './Application.css';
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiemV1c3BlcmV6IiwiYSI6ImNrOGEwNzBsNTBieG0zbHFtMnIxc251amcifQ.zMmbXZH1mFhktd2ZHdka-g';
+mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN;
 
 
 class Application extends React.Component {
