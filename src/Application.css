@@ -26,3 +26,12 @@
   width: 200%;
   overflow: auto;
 }
+
+.mapboxgl-popup--brown .mapboxgl-popup-content{
+    background-color: #ccae8d;
+    padding:20px;
+    color: white;
+    max-width:none;
+    border-color: #ccae8d;
+    box-shadow: 5px 5px 3px #2c1f12;
+}

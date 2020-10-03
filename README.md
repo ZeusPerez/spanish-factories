@@ -1,8 +1,8 @@
-(This project is work in progress)
+This project is work in progress but is published [here](https://tobacco-factories.herokuapp.com/)
 
 ## Tobacco Factories in Spain
 
-Project for representing the tobacco factories that existed in Spain across recent history and information about it. This project has academic purposes and represent the information of the book "Fábricas de tabacos en España" by Carolina Castañeda.
+Project for representing the tobacco factories that existed in Spain across recent history and information about it. This project has academic purposes and represent the information of the book ["Fábricas de tabacos en España"](https://cicees.com/producto/fabricas-de-tabacos-en-espana-arquitectura-industrial-y-paisajes-urbanos/) by Carolina Castañeda.
 
 
 ### Run
