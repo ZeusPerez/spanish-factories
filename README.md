@@ -1,5 +1,10 @@
 This project is work in progress but is published [here](https://tobacco-factories.herokuapp.com/)
 
+### Disclaimer
+
+This project is for **educational and academic purposes only**. It aims to provide a historical and geographical visualization of tobacco factories in Spain. **It does not promote, encourage, or support smoking or the tobacco industry in any way.**
+
+
 ## Tobacco Factories in Spain
 
 Project for representing the tobacco factories that existed in Spain across recent history and information about it. This project has academic purposes and represent the information of the book ["Fábricas de tabacos en España"](https://cicees.com/producto/fabricas-de-tabacos-en-espana-arquitectura-industrial-y-paisajes-urbanos/) by Carolina Castañeda.
